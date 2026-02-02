@@ -22,15 +22,6 @@
 - Filtering, grouping, merging
 - Time series operations
 - Case studies
-### 3. Matplotlib
-- Line, bar, scatter, histogram plots
-- Subplots
-- Styles, annotations
-- Customizations
-### 4. Seaborn
-- Relational, categorical & distribution plots
-- Pairplot, heatmap
-- Statistical visualizations
 
 ## Purpose of This Repo
 
@@ -47,8 +38,6 @@
 - Python 3
 - NumPy
 - Pandas
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 - Pycharm 
 
@@ -64,12 +53,6 @@ Python-Libraries/
 │   ├── pandas_series.ipynb
 │   ├── pandas_dataframe.ipynb
 │   ├── pandas_case_study.ipynb
-│
-├── matplotlib/
-│   ├── matplotlib_basics.ipynb
-│
-├── seaborn/
-│   ├── seaborn_basics.ipynb
 │
 └── README.md
 ```
